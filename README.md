@@ -1,4 +1,4 @@
-My name is William Holt, aka Alchemy (or the variation of ALCHElVlY if the original name is taken >_<). I am an asiring Full Stack Developer
+My name is William Holt, aka Alchemy (or the variation of ALCHElVlY if the original name is taken >_<). I am an aspiring Full Stack Developer
 
 - 🌱 I’m currently learning:<br>
   Currently I am in the process of obtaining my Bachelors degree in Computer Science.
