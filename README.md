@@ -12,12 +12,35 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       <br>
   
       <h4>Other languages I also like to use</h4>
-      <img src="https://imgur.com/GxZB87E.png" alt="cSharp" width=5% height=5%><span> - C#</span></img><br>
-      <img src="https://imgur.com/26ZTXwk.png" alt="java" width=5% height=5%><span> - Java</span></img><br>
-      <img src="https://imgur.com/UwwZTgs.png" alt="python" width=5% height=5%><span> - Python</span></img><br>
-      <img src="https://imgur.com/knhEDjT.png" alt="html" width=5% height=5%><span> - HTML</span></img><br>
-      <img src="https://imgur.com/mxgz4Wx.png" alt="css" width=5% height=5%><span> - CSS</span></img><br>
-      <img src="https://imgur.com/j3Gkvcd.png" alt="sass" width=5% height=5%><span> - Sass</span></img>
+      <div>
+       <img src="https://imgur.com/GxZB87E.png" alt="cSharp" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-4%2F10-blue" />
+      </div>
+      
+      <div>
+       <img src="https://imgur.com/26ZTXwk.png" alt="java" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-4%2F10-blue" /><br>
+      </div>
+      
+      <div>
+       <img src="https://imgur.com/UwwZTgs.png" alt="python" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-1%2F10-blue" /><br>
+      </div>
+      
+      <div>
+       <img src="https://imgur.com/knhEDjT.png" alt="html" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-6%2F10-blue" /><br>
+      </div>
+      
+      <div>
+       <img src="https://imgur.com/mxgz4Wx.png" alt="css" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-6%2F10-blue" /><br>
+      </div>
+      
+      <div>
+       <img src="https://imgur.com/j3Gkvcd.png" alt="sass" width=5% height=5% />
+       <img src="https://img.shields.io/badge/Skill%20Level-2%2F10-blue" />
+      </div>
      </p>
     
     ------------------------------------------------------------
@@ -36,3 +59,4 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
     </p>
     
     ------------------------------------------------------------
+
