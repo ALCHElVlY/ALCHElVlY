@@ -1,7 +1,10 @@
 My name is William Holt, aka Alchemy (or the variation of ALCHElVlY if the original name is taken >_<). I am an aspiring Full Stack Developer
 
-- 🌱 I’m currently learning:<br>
-  Currently I am in the process of obtaining my Bachelors degree in Computer Science.
+- 🌱 I love to develop using the MERN Stack<br>
+  ![mongoDB](https://imgur.com/U9NRYzH.png)
+  ![expressJS](https://imgur.com/NFOktJ8.png)
+  ![reactJS](https://imgur.com/kRALSx1.png)
+  ![nodeJS](https://imgur.com/BAmdOeC.png)
   
 - 👯 I’m looking to collaborate on:<br>
   I am looking to collaborate on projects relating to the online video game; Diablo II: Resurrected
