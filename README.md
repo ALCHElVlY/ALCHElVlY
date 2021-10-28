@@ -3,12 +3,21 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
 -   <h3>💻 Development Stacks I like to use</h3>
     <p>
       M.E.R.N. - 
-      <img src="https://imgur.com/U9NRYzH.png" alt="mongoDB" width=2.5% height=2.5% />
-      <img src="https://imgur.com/NFOktJ8.png" alt="expressJS" width=5% height=5% />
-      <img src="https://imgur.com/kRALSx1.png" alt="reactJS" width=5% height=5% />
-      <img src="https://imgur.com/BAmdOeC.png" alt="nodeJS" width=4% height=4% />
+        <img src="https://imgur.com/U9NRYzH.png" alt="mongoDB" width=2.5% height=2.5% />
+        <img src="https://imgur.com/NFOktJ8.png" alt="expressJS" width=5% height=5% />
+        <img src="https://imgur.com/kRALSx1.png" alt="reactJS" width=5% height=5% />
+        <img src="https://imgur.com/BAmdOeC.png" alt="nodeJS" width=4% height=4% />
       <br>
       <br>
+      <br>
+      
+      <h4>Education</h4>
+      <div>
+          <p>
+              Degree: <code>Associates in Computer Science</code><br>
+              Progress: <code>pendings...</code>
+          </p>
+      </div>
       <br>
   
       <h4>Other languages I also like to use</h4>
@@ -41,22 +50,22 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
        <img src="https://imgur.com/j3Gkvcd.png" alt="sass" width=3% height=3% />
        <img src="https://img.shields.io/badge/Skill%20Level-2%2F10-blue" />
       </div>
-     </p>
-    
-    ------------------------------------------------------------
+    </p>
+    <!-- Horizontal line break -->
+    <hr />
   
 -   <h3>🧑‍💻 I’m looking to collaborate on:</h3>
     <p>
       <img src="https://imgur.com/2p3QZf5.png" alt="d2r" width=4% height=4%>Diablo II: Resurrected projects</img>
     </p>
-    
-    ------------------------------------------------------------
+    <!-- Horizontal line break -->
+    <hr />
   
 -   <h3>📫 How to reach me:</h3>
     <p>
       Email: <a href="mailto:beskar.labs@outlook.com">beskar.labs@outlook.com</a><br>
       Discord: Alchemy#1990
     </p>
-    
-    ------------------------------------------------------------
+    <!-- Horizontal line break -->
+    <hr />
 
