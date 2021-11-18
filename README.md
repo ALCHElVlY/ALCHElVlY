@@ -18,17 +18,24 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
               Progress: <code>pendings...</code>
           </p>
       </div>
-      <br>
+
+      <h4>Certifications</h4>
+      <div>
+          <p>
+            Oracle Certified Foundations Associate, Database
+            <code>11/17/2021</code>
+          </p>
+      </div>
   
       <h4>Other languages I also like to use</h4>
       <div>
        <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-4%2F10-blue" />
+       <img src="https://img.shields.io/badge/Skill%20Level-5%2F10-blue" />
       </div>
       
       <div>
        <img src="https://imgur.com/26ZTXwk.png" title="Java" alt="java" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-4%2F10-blue" /><br>
+       <img src="https://img.shields.io/badge/Skill%20Level-5%2F10-blue" /><br>
       </div>
       
       <div>
@@ -48,7 +55,7 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       
       <div>
        <img src="https://imgur.com/j3Gkvcd.png" title="Sass" alt="sass" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-2%2F10-blue" />
+       <img src="https://img.shields.io/badge/Skill%20Level-3%2F10-blue" />
       </div>
     </p>
     <!-- Horizontal line break -->
