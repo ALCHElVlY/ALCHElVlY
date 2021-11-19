@@ -20,42 +20,19 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       </div>
 
       <h4>Certifications</h4>
-      <div>
-          <p>
-            Oracle Certified Foundations Associate, Database
-            <code>11/17/2021</code>
-          </p>
-      </div>
+        <p>
+        Oracle Certified Foundations Associate, Database
+        <code>11/17/2021</code>
+        </p>
   
       <h4>Other languages I also like to use</h4>
       <div>
        <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-5%2F10-blue" />
-      </div>
-      
-      <div>
        <img src="https://imgur.com/26ZTXwk.png" title="Java" alt="java" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-5%2F10-blue" /><br>
-      </div>
-      
-      <div>
        <img src="https://imgur.com/UwwZTgs.png" title="Python" alt="python" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-1%2F10-blue" /><br>
-      </div>
-      
-      <div>
        <img src="https://imgur.com/knhEDjT.png" title="HTML" alt="html" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-6%2F10-blue" /><br>
-      </div>
-      
-      <div>
        <img src="https://imgur.com/mxgz4Wx.png" title="CSS" alt="css" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-6%2F10-blue" /><br>
-      </div>
-      
-      <div>
        <img src="https://imgur.com/j3Gkvcd.png" title="Sass" alt="sass" width=3% height=3% />
-       <img src="https://img.shields.io/badge/Skill%20Level-3%2F10-blue" />
       </div>
     </p>
     <!-- Horizontal line break -->
