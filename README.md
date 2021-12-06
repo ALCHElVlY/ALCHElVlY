@@ -43,6 +43,3 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       Email: <a href="mailto:beskar.labs@outlook.com">beskar.labs@outlook.com</a><br>
       Discord: Alchemy#1990
     </p>
-    <!-- Horizontal line break -->
-    <hr />
-
