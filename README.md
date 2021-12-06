@@ -38,13 +38,6 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
     <!-- Horizontal line break -->
     <hr />
   
--   <h3>🧑‍💻 I’m looking to collaborate on:</h3>
-    <p>
-      <img src="https://imgur.com/2p3QZf5.png" title="Diablo II: Resurrected" alt="d2r" width=4% height=4%>Diablo II: Resurrected projects</img>
-    </p>
-    <!-- Horizontal line break -->
-    <hr />
-  
 -   <h3>📫 How to reach me:</h3>
     <p>
       Email: <a href="mailto:beskar.labs@outlook.com">beskar.labs@outlook.com</a><br>
