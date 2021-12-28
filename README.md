@@ -1,4 +1,4 @@
-My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken >_<). I am an aspiring Full Stack Developer
+My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken >_<). I am an aspiring Full Stack Developer.
  
 -   <h3>💻 Development Stacks I like to use</h3>
     <p>
@@ -11,7 +11,7 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       <br>
       <br>
       
-      <h4>Education</h4>
+      <h4>📚 Education</h4>
       <div>
           <p>
               Degree: <code>Associates in Computer Science</code><br>
@@ -19,7 +19,7 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
           </p>
       </div>
 
-      <h4>Certifications</h4>
+      <h4>📝 Certifications</h4>
         <p>
         Oracle Certified Foundations Associate, Database
         <code>11/17/2021</code>
