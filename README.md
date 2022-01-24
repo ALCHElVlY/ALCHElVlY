@@ -14,7 +14,7 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       <h4>📚 Education</h4>
       <div>
           <p>
-              Degree: <code>Associates in Computer Science</code><br>
+              Degree: <code>Associates in Software Development</code><br>
               Progress: <code>pendings...</code>
           </p>
       </div>
