@@ -27,8 +27,8 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
   
       <h4>Other languages I also like to use</h4>
       <div>
-       <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
        <img src="https://imgur.com/26ZTXwk.png" title="Java" alt="java" width=3% height=3% />
+       <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
        <img src="https://imgur.com/UwwZTgs.png" title="Python" alt="python" width=3% height=3% />
        <img src="https://imgur.com/knhEDjT.png" title="HTML" alt="html" width=3% height=3% />
        <img src="https://imgur.com/mxgz4Wx.png" title="CSS" alt="css" width=3% height=3% />
