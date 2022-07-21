@@ -1,4 +1,4 @@
-My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken >_<). I am an aspiring Full Stack Developer.
+My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken >_<). I am a Full Stack Developer.
  
 -   <h3>💻 Development Stacks I like to use</h3>
     <p>
@@ -7,6 +7,9 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
         <img src="https://imgur.com/NFOktJ8.png" title="ExpressJS" alt="expressJS" width=5% height=5% />
         <img src="https://imgur.com/kRALSx1.png" title="ReactJS" alt="reactJS" width=5% height=5% />
         <img src="https://imgur.com/BAmdOeC.png" title="NodeJS" alt="nodeJS" width=4% height=4% />
+        <br />
+      ASP.Net Core (Microsoft tech stack) -
+        <img src="https://imgur.com/amteQH1.png" title="ASP.Net Core" atl="asp.net core" width="4%" height="4%" />
       <br>
       <br>
       <br>
@@ -22,14 +25,14 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
       <h4>📝 Certifications</h4>
         <p>
         Oracle Certified Foundations Associate, Database
-        <code>11/17/2021</code>
+        <code>issued: 11/17/2021</code>
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A580734299DCC16A055D7BD33FC83AB47E5701804B4911AA69B32EDF3A6CA0A9">view credential</a>
         </p>
   
       <h4>Other languages I also like to use</h4>
       <div>
-       <img src="https://imgur.com/26ZTXwk.png" title="Java" alt="java" width=3% height=3% />
        <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
-       <img src="https://imgur.com/UwwZTgs.png" title="Python" alt="python" width=3% height=3% />
+       <img src="https://imgur.com/Blb5Awa.png" title="Typescript" alt="typescript" width=3% height=3% />
       </div>
     </p>
     <!-- Horizontal line break -->
