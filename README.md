@@ -26,7 +26,9 @@ My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken
         <p>
         Oracle Certified Foundations Associate, Database
         <code>issued: 11/17/2021</code>
-        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A580734299DCC16A055D7BD33FC83AB47E5701804B4911AA69B32EDF3A6CA0A9">view credential</a>
+        <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=A580734299DCC16A055D7BD33FC83AB47E5701804B4911AA69B32EDF3A6CA0A9" target="_blank">
+         view credential
+        </a>
         </p>
   
       <h4>Other languages I also like to use</h4>
