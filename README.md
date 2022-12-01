@@ -1,4 +1,4 @@
-My name is William Holt, aka Alchemy (or ALCHElVlY if the original name is taken >_<). I am a Typescript and .NET developer.
+My name is William Holt, or otherwise known by the alias Alchemy.
  
 -   <h3>💻 Development Stacks I like to use</h3>
     <p>
