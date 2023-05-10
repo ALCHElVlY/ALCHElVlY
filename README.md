@@ -22,7 +22,7 @@ My name is William Holt, or otherwise known by the alias Alchemy.
           </p>
           <p>
               Degree: <code>Bachelor of Science in Software Development</code><br>
-              Progress: <code>pendings...</code>
+              Progress: <code>05/05/25</code>
           </p>
       </div>
 
