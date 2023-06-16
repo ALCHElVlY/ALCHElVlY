@@ -47,5 +47,5 @@ My name is William Holt, or otherwise known by the alias Alchemy.
 -   <h3>📫 How to reach me:</h3>
     <p>
       Email: <a href="mailto:beskar.labs@outlook.com">beskar.labs@outlook.com</a><br>
-      Discord: Alchemy#1990
+      Discord: alchelvly
     </p>
