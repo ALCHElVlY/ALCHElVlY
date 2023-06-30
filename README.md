@@ -2,32 +2,35 @@
   <h3>My name is William Holt, or otherwise known by the alias Alchemy.</h3>
  
   <div>
-   <h3>💻 Development Stacks I like to use</h3>
-   <p>
-    ASP.Net Core (Microsoft tech stack) -
-    <img src="https://imgur.com/amteQH1.png" title="ASP.Net Core" atl="asp.net core" width="3%"></img>
-   <br>
-   M.E.R.N. - 
-   <img src="https://imgur.com/U9NRYzH.png" title="MongoDB" alt="mongoDB" width="2.5%"></img>
-   <img src="https://imgur.com/NFOktJ8.png" title="ExpressJS" alt="expressJS" width="3%"></img>
-   <img src="https://imgur.com/kRALSx1.png" title="ReactJS" alt="reactJS" width="3%"></img>
-   <img src="https://imgur.com/BAmdOeC.png" title="NodeJS" alt="nodeJS" width="3%"></img>
-   <br>
-   <br>
-   <br>
-   </p>
+    <h3>💻 Development Stacks I like to use</h3>
+    <p>
+        ASP.Net Core (Microsoft tech stack) -
+        <img src="https://imgur.com/amteQH1.png" title="ASP.Net Core" atl="asp.net core" width="3%"></img>
+      <br>
+      M.E.R.N. - 
+      <img src="https://imgur.com/U9NRYzH.png" title="MongoDB" alt="mongoDB" width="2.5%"></img>
+      <img src="https://imgur.com/NFOktJ8.png" title="ExpressJS" alt="expressJS" width="3%"></img>
+      <img src="https://imgur.com/kRALSx1.png" title="ReactJS" alt="reactJS" width="3%"></img>
+      <img src="https://imgur.com/BAmdOeC.png" title="NodeJS" alt="nodeJS" width="3%"></img>
+      <br>
+      <div>
+        <h4>Other languages I also like to use</h4>
+        <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
+        <img src="https://imgur.com/Blb5Awa.png" title="Typescript" alt="typescript" width=3% height=3% />
+      </div>
+    </p>
   </div>
  
   <div>
-   <h4>📚 Education</h4>
-   <p>
-    Degree: <code>Associate of Science in Software Development</code><br>
-    Issued: <code>05/05/2023</code>
-   </p>
-   <p>
-    Degree: <code>Bachelor of Science in Information Technology</code><br>
-    Progress: <code>05/05/2025</code>
-   </p>
+    <h4>📚 Education</h4>
+    <p>
+      Degree: <code>Associate of Science in Software Development</code><br>
+      Issued: <code>05/05/2023</code>
+    </p>
+    <p>
+      Degree: <code>Bachelor of Science in Information Technology</code><br>
+      Progress: <code>05/05/2025</code>
+    </p>
   </div>
 
   <div>
@@ -39,12 +42,6 @@
           view credential
          </a>
     </p>
-  </div>
-
-  <div>
-    <h4>Other languages I also like to use</h4>
-    <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
-    <img src="https://imgur.com/Blb5Awa.png" title="Typescript" alt="typescript" width=3% height=3% />
   </div>
 
   <hr>
