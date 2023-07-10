@@ -40,8 +40,8 @@
       <img alt="Static Visual Studio Code Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual%20studio%20code&logoColor=white">
       <img alt="Static C# Badge" src="https://img.shields.io/badge/Language-C%23-blue?logo=csharp&logoColor=white">
       <img alt="Static TypeScript Badge" src="https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript&logoColor=white">
-      <img alt="Static .NET Badge" src="https://img.shields.io/badge/Frameworks-.NET-blue?logo=.net&logoColor=white">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Frameworks-Blazor-blue?logo=blazor">
+      <img alt="Static .NET Badge" src="https://img.shields.io/badge/Runtimes-.NET-blue?logo=.net&logoColor=white">
+      <img alt="Static Blazor Badge" src="https://img.shields.io/badge/Frameworks-Blazor-blue?logo=blazor">
       <img alt="Static React Badge" src="https://img.shields.io/badge/Frameworks-React-blue?logo=react&logoColor=white">
       <img alt="Static Azure Badge" src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft%20azure&logoColor=white">
       <img alt="Static AWS Badge" src="https://img.shields.io/badge/Cloud-AWS-blue?logo=amazon%20aws&logoColor=white">
