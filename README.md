@@ -1,26 +1,12 @@
 <div>
   <h3>My name is William Holt, or otherwise known by the alias Alchemy.</h3>
- 
-  <div>
-    <h3>💻 Development Stacks I like to use</h3>
-    <p>
-        ASP.Net Core (Microsoft tech stack) -
-        <img src="https://imgur.com/amteQH1.png" title="ASP.Net Core" atl="asp.net core" width="3%"></img>
-      <br>
-      M.E.R.N. - 
-      <img src="https://imgur.com/U9NRYzH.png" title="MongoDB" alt="mongoDB" width="2.5%"></img>
-      <img src="https://imgur.com/NFOktJ8.png" title="ExpressJS" alt="expressJS" width="3%"></img>
-      <img src="https://imgur.com/kRALSx1.png" title="ReactJS" alt="reactJS" width="3%"></img>
-      <img src="https://imgur.com/BAmdOeC.png" title="NodeJS" alt="nodeJS" width="3%"></img>
-      <br>
-      <div>
-        <h4>Other languages I also like to use</h4>
-        <img src="https://imgur.com/GxZB87E.png" title="C#" alt="cSharp" width=3% height=3% />
-        <img src="https://imgur.com/Blb5Awa.png" title="Typescript" alt="typescript" width=3% height=3% />
-      </div>
-    </p>
-  </div>
- 
+  <p>
+    I am a Software Developer & Azure Cloud Architect. I enjoy solving real world problems
+    using the power of modern technology.
+  </p>
+
+  <hr>
+
   <div>
     <h4>📚 Education</h4>
     <p>
@@ -42,6 +28,29 @@
           view credential
          </a>
     </p>
+  </div>
+
+  <hr>
+
+  <div>
+    <h4> Tools & Technologies</h4>
+    <div>
+      <img alt="Static OS Badge" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
+      <img alt="Static Visual Studio Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual%20studio">
+      <img alt="Static Visual Studio Code Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual%20studio%20code&logoColor=white">
+      <img alt="Static C# Badge" src="https://img.shields.io/badge/Language-C%23-blue?logo=csharp&logoColor=white">
+      <img alt="Static TypeScript Badge" src="https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript&logoColor=white">
+      <img alt="Static .NET Badge" src="https://img.shields.io/badge/Frameworks-.NET-blue?logo=.net&logoColor=white">
+      <img alt="Static React-TypeScript Badge" src="https://img.shields.io/badge/Frameworks-React%20TypeScript-blue?logo=react&logoColor=white">
+      <img alt="Static Azure Badge" src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft%20azure&logoColor=white">
+      <img alt="Static AWS Badge" src="https://img.shields.io/badge/Cloud-AWS-blue?logo=amazon%20aws&logoColor=white">
+      <img alt="Static MySQL Badge" src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white">
+      <img alt="Static MongoDB Badge" src="https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb&logoColor=white">
+      <img alt="Static PowerShell Badge" src="https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell&logoColor=white">
+      <img alt="Static GitHub Badge" src="https://img.shields.io/badge/CI%2FCD-GitHub-blue?logo=github&logoColor=white">
+      <img alt="Static Docker Badge" src="https://img.shields.io/badge/Interests-Docker-blue?logo=docker&logoColor=white">
+      <img alt="Static Kubernetes Badge" src="https://img.shields.io/badge/Interests-Kubernetes-blue?logo=kubernetes&logoColor=white">
+    </div>
   </div>
 
   <hr>
