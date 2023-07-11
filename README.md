@@ -8,7 +8,7 @@
   <hr>
 
   <div>
-    <h4>📚 Education</h4>
+    <h3>📚 Education</h3>
     <p>
       Degree: <code>Associate of Science in Software Development</code><br>
       Issued: <code>05/05/2023</code>
@@ -20,7 +20,7 @@
   </div>
 
   <div>
-    <h4>📝 Certifications</h4>
+    <h3>📝 Certifications</h3>
     <p>
       Oracle Certified Foundations Associate, Database
          <code>issued: 11/17/2021</code>
@@ -33,7 +33,7 @@
   <hr>
 
   <div>
-    <h4> Tools & Technologies</h4>
+    <h3>🛠️ Tools & Technologies</h3>
     <div>
       <img alt="Static OS Badge" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
       <img alt="Static Visual Studio Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual%20studio">
