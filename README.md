@@ -35,21 +35,33 @@
   <div>
     <h3>🛠️ Tools & Technologies</h3>
     <div>
+      <img alt="Static OS Badge" src="https://img.shields.io/badge/OS-Linux-blue?logo=ubuntu&logoColor=white">
       <img alt="Static OS Badge" src="https://img.shields.io/badge/OS-Windows-blue?logo=windows">
+      <br>
       <img alt="Static Visual Studio Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio-blue?logo=visual%20studio">
       <img alt="Static Visual Studio Code Badge" src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?logo=visual%20studio%20code&logoColor=white">
+      <br>
       <img alt="Static C# Badge" src="https://img.shields.io/badge/Language-C%23-blue?logo=csharp&logoColor=white">
       <img alt="Static TypeScript Badge" src="https://img.shields.io/badge/Language-TypeScript-blue?logo=typescript&logoColor=white">
-      <img alt="Static .NET Badge" src="https://img.shields.io/badge/Runtimes-.NET-blue?logo=.net&logoColor=white">
-      <img alt="Static Blazor Badge" src="https://img.shields.io/badge/Frameworks-Blazor-blue?logo=blazor">
-      <img alt="Static React Badge" src="https://img.shields.io/badge/Frameworks-React-blue?logo=react&logoColor=white">
+      <br>
+      <img alt="Static .NET Badge" src="https://img.shields.io/badge/Runtime-.NET-blue?logo=.net&logoColor=white">
+      <br>
+      <img alt="Static Blazor Badge" src="https://img.shields.io/badge/Framework-Blazor-blue?logo=blazor&logoColor=white">
+      <img alt="Static React Badge" src="https://img.shields.io/badge/Framework-React-blue?logo=react&logoColor=white">
+      <br>
       <img alt="Static Azure Badge" src="https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft%20azure&logoColor=white">
       <img alt="Static AWS Badge" src="https://img.shields.io/badge/Cloud-AWS-blue?logo=amazon%20aws&logoColor=white">
+      <br>
       <img alt="Static MySQL Badge" src="https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white">
       <img alt="Static MongoDB Badge" src="https://img.shields.io/badge/Database-MongoDB-blue?logo=mongodb&logoColor=white">
+      <br>
+      <img alt="Static Bash Badge" src="https://img.shields.io/badge/Shell-Bash-blue?logo=gnu-bash&logoColor=white">
       <img alt="Static PowerShell Badge" src="https://img.shields.io/badge/Shell-PowerShell-blue?logo=powershell&logoColor=white">
+      <br>
       <img alt="Static GitHub Badge" src="https://img.shields.io/badge/CI%2FCD-GitHub-blue?logo=github&logoColor=white">
-      <img alt="Static Docker Badge" src="https://img.shields.io/badge/Interests-Docker-blue?logo=docker&logoColor=white">
+      <br>
+      <img alt="Static Docker Badge" src="https://img.shields.io/badge/Containerization -Docker-blue?logo=docker&logoColor=white">
+      <br>
       <img alt="Static Kubernetes Badge" src="https://img.shields.io/badge/Interests-Kubernetes-blue?logo=kubernetes&logoColor=white">
     </div>
   </div>
