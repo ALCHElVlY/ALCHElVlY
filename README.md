@@ -71,7 +71,7 @@
   <div>
     <h3>📫 How to reach me:</h3>
     <p>
-      Email: <a href="mailto:beskar.labs@outlook.com">beskar.labs@outlook.com</a><br>
+      Email: <a href="mailto:william.holt90@outlook.com">william.holt90@outlook.com</a><br>
       Discord: alchelvly
     </p>
   </div>
