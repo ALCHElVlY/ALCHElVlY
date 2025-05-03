@@ -15,7 +15,7 @@
     </p>
     <p>
       Degree: <code>Bachelor of Science in Information Technology</code><br>
-      Progress: <code>05/05/2025</code>
+      Issues: <code>05/05/2025</code>
     </p>
   </div>
 
