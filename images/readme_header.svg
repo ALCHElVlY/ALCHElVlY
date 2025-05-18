@@ -205,7 +205,7 @@
     </textPath>
   </text>
   
-  <text x="2" y="12" font-family="Helvetica" font-size=".22em" 
+  <text x="1" y="12" font-family="Helvetica" font-size=".22em" 
         fill="#AAA" font-weight="bold"> 
         Hello there!
   </text>
