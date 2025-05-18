@@ -182,7 +182,7 @@ g.typingUnderline rect {
 
 <text font-family="Courier New" font-size=".22em" fill="white"
       font-weight="bold" letter-spacing="2">
-  <textPath xlink:href="#nameTyping" textLength="26">
+  <textPath xlink:href="#nameTyping" textLength="50">
       WILLIAM HOLT
   </textPath>
 </text>
