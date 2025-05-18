@@ -2,12 +2,12 @@
 
 ### :space_invader: &nbsp;About Me
 
-&nbsp;&nbsp; :man_technologist:&nbsp;Currently working as a Systems Analyst at <a href="https://www.lafvb.com" target="_blank">Lafayette Interior Fashions</a>. \
+&nbsp;&nbsp; :man_technologist:&nbsp;Currently working as a Systems Analyst at [Lafayette Interior Fashions](https://www.lafvb.com). \
 &nbsp;&nbsp; :seedling:&nbsp;Love for technology and innovation.\
 &nbsp;&nbsp; :heartbeat:&nbsp;Passionate about problem solving and daily routine automation.\
 &nbsp;&nbsp; :writing_hand:&nbsp;Currently researching software architecture, development, and quality.\
 &nbsp;&nbsp; :hammer_and_wrench:&nbsp;Developing since 2018, gaining experience in numerous categories of the development process.\
-&nbsp;&nbsp; :family_man_woman_girl_boy:&nbsp;Living in Indiana with my lovely wife :two_hearts:, 2 kids, and our 4 dogs .
+&nbsp;&nbsp; :family_man_woman_girl_boy:&nbsp;Living in Indiana with my lovely :two_hearts:wife, 2 kids, and our 4 dogs.
 
 <p align="center">
   <a href="mailto:william.holt90@outlook.com?subject=Hello%20William%20Holt"><img src="https://img.shields.io/badge/Outlook-%230364B8?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
