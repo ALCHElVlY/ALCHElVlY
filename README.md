@@ -1,4 +1,4 @@
-<img src="images/readme_header.svg"></img>
+<img src="https://github.com/ALCHElVlY/ALCHElVlY/blob/main/images/readme_header.svg"></img>
 
 ### :space_invader: &nbsp;About Me
 
