@@ -1,4 +1,4 @@
-<img src="profile_data/images/readme_header.svg"></img>
+<img src="images/readme_header.svg"></img>
 
 ### :space_invader: &nbsp;About Me
 
