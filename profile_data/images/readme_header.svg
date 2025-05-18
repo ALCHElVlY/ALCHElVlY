@@ -199,9 +199,9 @@ g.typingUnderline rect {
 </path>
 
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="middle" font-style="italic" > 
+     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      Software Developer, Cloud Architect, and Database Developer.
+      Software Developer, Cloud Architect, and Database Developer.  
   </textPath>
 </text>
 
