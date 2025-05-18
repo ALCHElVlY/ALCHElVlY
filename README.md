@@ -74,7 +74,7 @@
 ![BDD](https://img.shields.io/badge/BEHAVIOR%20DD-4479A1.svg?&style=flat&logo=bdd&logoColor=white)&nbsp;\
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;\
 ![Adobe Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;\
+![Adobe Illustrator](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
 </details>
 
