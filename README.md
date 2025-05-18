@@ -5,8 +5,8 @@
 &nbsp;&nbsp; :man_technologist:&nbsp;Currently working as a Systems Analyst at [Lafayette Interior Fashions](https://www.lafvb.com). \
 &nbsp;&nbsp; :seedling:&nbsp;Love for technology and innovation.\
 &nbsp;&nbsp; :heartbeat:&nbsp;Passionate about problem solving and daily routine automation.\
-&nbsp;&nbsp; :writing_hand:&nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp; :hammer_and_wrench:&nbsp;Developing since 2018, gaining experience in numerous categories of the development process.\
+&nbsp;&nbsp; :writing_hand:&nbsp;Actively researching software design patterns, development methodologies, and programming best practices.\
+&nbsp;&nbsp; :hammer_and_wrench:&nbsp;Writing code since 2018 and mastering every phase of development—from requirements gathering to deployment\
 &nbsp;&nbsp; :family_man_woman_girl_boy:&nbsp;Living in Indiana with my lovely :two_hearts:wife, 2 kids, and our 4 dogs.
 
 <p align="center">
