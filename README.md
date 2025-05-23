@@ -93,9 +93,9 @@
 <hr/>
 
 <p align="center">
- <a href="https://ko-fi.com/will2code_">
-   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me a Coffee at ko-fi.com" data-canonical-src="https://ko-fi.com/img/githubbutton_sm.svg" style="max-width: 100%;">
- </a>
+  <a href="https://ko-fi.com/will2code_" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="images/support-buy-coffee.png"/>
+  </a>
 </p>
 
 <p align="right">
